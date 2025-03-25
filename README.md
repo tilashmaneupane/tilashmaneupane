@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @tilashmaneupane
-- 👀 I’m interested in Web development and animations.
-- 🌱 I’m fully skilled in HTML,CSS,PHP,JAVA SCRIPT and Python.
-- 💞️ I’m looking to collaborate on fullstack website development.
 - 📫 How to reach me: tilashmaneupane@gmail.com
-- 😄 Pronouns:she
 
 
 <!---
